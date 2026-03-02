@@ -1,0 +1,32 @@
+COMPREHENSIVE ASR EVALUATION REPORT
+========================================
+
+    📊 Whisper-1 (API) Performance Metrics
+    -------------------------------------------
+    WER (Word Error Rate):      0.0243
+    CER (Character Error Rate): 0.0196
+    MER (Match Error Rate):     0.0239
+    WIL (Word Information Loss): 0.0285
+    WIP (Word Info Preserved):  0.9715
+
+    Edit Distance Breakdown:
+    - Substitutions: 5
+    - Deletions:     4
+    - Insertions:    17
+    - Hits (Correct): 1063
+    
+
+    📊 Whisper Small (Local) Performance Metrics
+    -------------------------------------------
+    WER (Word Error Rate):      0.6110
+    CER (Character Error Rate): 0.5310
+    MER (Match Error Rate):     0.6110
+    WIL (Word Information Loss): 0.7531
+    WIP (Word Info Preserved):  0.2469
+
+    Edit Distance Breakdown:
+    - Substitutions: 240
+    - Deletions:     415
+    - Insertions:    0
+    - Hits (Correct): 417
+    
